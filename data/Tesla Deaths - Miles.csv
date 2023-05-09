@@ -1,0 +1,34 @@
+,Miles driven,,,,,,,Cumulative deaths*,,,Miles per death,
+Date,Fleet,Autopilot,Nav on AP,Autopilot %,Per vehicle yr,Model 3,Per vehicle yr,Fleet,Model S/X,Model 3,Fleet,Source
+"November 6, 2019",,,"1,000,000,000",,,,,,,,,https://www.youtube.com/watch?v=oBklltKXtDE
+"March 23, 2019",,,,,,"1,000,000,000",,43,40,3,,https://twitter.com/Tesla/status/1109495034959675393
+"March 21, 2019","10,286,222,684",,,,"11,678",,,43,40,3,"239,214,481",https://www.reddit.com/r/teslamotors/comments/b3oht0/and_counting/
+"November 28, 2018","9,113,481,349","1,000,000,000",,11%,"12,001",,,,,,,https://twitter.com/Tesla/status/1067810392322109441
+"April 22, 2018","7,200,000,000",,,,"12,486",,,25,25,0,"288,000,000",https://electrek.co/2018/04/22/tesla-fleet-miles-energy-products/
+"March 20, 2017","4,000,000,000",,,,"14,688",,,20,20,0,"200,000,000",https://electrek.co/2017/03/20/tesla-global-fleet-reaches-4-billion-electric-miles-ahead-model-3/
+"December 26, 2016","3,500,000,000",,,,"15,267",,,18,18,0,"194,444,444",https://electrek.co/2016/12/26/tesla-global-fleet-3-5-billion-miles/
+"October 7, 2016","3,032,438,215","222,000,000",,7%,"13,228",,,,,,,https://twitter.com/elonmusk/status/784487348562198529
+"October 1, 2016","3,000,000,000","214,324,933",,7%,"13,086",,,14,14,0,"214,285,714",https://electrek.co/2016/10/01/teslas-global-fleet-just-reached-3-billion-electric-miles-driven/
+"May 24, 2016",,"100,000,000",,,,,,,,,,https://electrek.co/2016/05/24/tesla-autopilot-miles-data/
+"April 9, 2016",,"47,000,000",,,,,,,,,,https://twitter.com/tesla/status/718845153318834176
+,,,,,,,,,,,,
+"*Excludes occupants of other vehicles, includes cyclists and pedestrians (consistent with NHTSA methodology)",,,,,,,,,,,,
+,,,,,,,,,,,,
+Notes,,,,,,,,,,,,
+1. Red figures are interpolated,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,Need to weight the non-US average by Tesla's sales in each geography,,,,,,,,
+,,,,,,,,,,,,
+,,,,China,Netherlands,Canada,Norway,US,Average non-US,,,
+,,Kilometers driven per automobile per year,,"14,125","11,500","11,729","14,935","19,801","13,072",,,
+,,Miles driven per automobile per year,,"8,777","7,146","7,288","9,280","12,304","8,123",,,
+,,,,,,,,,,,,
+,,Sources for annual mileage stats:,,,,,,,,,,
+,,www.fhwa.dot.gov,,,,,,,,,,
+,,www.ssb.no,,,,,,,,,,
+,,www.cbs.nl,,,,,,,,,,
