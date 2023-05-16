@@ -1,5 +1,5 @@
 # Tesla Data Analysis Project Overview
-The objective of the project is to analyze Tesla crash data to gain insights and understand the most notable causes for Tesla vehicle crashes. The dataset used in this project includes information about Tesla crashes such as: Case #,	Year,	Date,	Country,	State,	Description and	Deaths, among others.	
+The objective of the project is to analyze deaths that involves Tesla cars data to gain insights and understand the most notable causes for that deaths. The dataset used in this project includes information about Tesla accidents such as: Case #,	Year,	Date,	Country,	State,	Description and	Deaths, among others.	
 
 The project aims to evaluate Tesla’s autopilot involvement in crashes reported by Tesla Owners and the safety of the vehicle itself. The analysis also looks into driver and copilot safety in comparison to third parties involved (pedestrians, other cars, motorcycles etc)
 
